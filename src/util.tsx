@@ -1,3 +1,4 @@
 export const getBorderColor = (visible: boolean) => {
-    return visible ? "#CCC" : "transparent"
+    return visible ? '#CCC' : 'transparent'
 }
+
